@@ -1,4 +1,4 @@
-# 🏨 Hotel Tinny: Sistema de Gestão de Operações Hoteleiras
+# 🏨 Hotel Tinny: A Magia por Trás da Gestão do Seu Hotel!
 
  ## 🌟Bem-vindo!🪄
 Hotel Tinny é uma plataforma desenvolvida em Kotlin para ajudar os funcionários do hotel a gerenciar as operações de forma mais prática, eficiente e organizada. ✨
